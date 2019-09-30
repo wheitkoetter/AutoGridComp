@@ -1,0 +1,6 @@
+Dependencies and Licenses:
+
+QGIS 2:  GPLv2 License
+python 2:  Python Software Foundation License
+PyQt4: GNU General Public License (GPL)
+networkx: 3-clause BSD license

@@ -1,0 +1,26 @@
+--- GENERAL GRAPH INFORMATION ---
+total number of nodes all graphs,904
+total number of graphs: ,30
+number of disconnected graphs: ,29
+total number of disconnected graphs nodes: ,93
+MAIN GRAPH:
+number of nodes: ,811
+number of edges: ,1054
+total line length [km]: ,23066.4000
+average line length[km]: ,21.8846
+--- MATHEMATICAL CRITERIA ---
+average shortest path [number of nodes],11.6145
+average shortest path length [km],393.6914
+diameter [number of nodes],27
+sum of degrees,2108
+average degree,2.5993
+maximum degree,12.0000
+average betweenness centrality value for nodes,0.013121
+maximum betweenness centrality value for nodes,0.254398
+minimum betweenness centrality value for nodes,0.000000
+average betweenness centrality value for edges,0.011019
+maximum betweenness centrality value for edges,0.161511
+minimum betweenness centrality value for edges,0.000003
+average local clustering coefficient,0.072635
+maximum local clustering coefficient,1.000000
+minimum local clustering coefficient,0.000000
