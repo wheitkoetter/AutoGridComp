@@ -11,7 +11,7 @@ name=AutoGridComp
 qgisMinimumVersion=2.0
 qgisMaximumVersion=2.99
 description=compares grid models automatically
-version=0.1
+version=0.2
 author=Wilko Heitkoetter - DLR Institute of Networked Energy Systems
 email=wilko.heitkoetter@dlr.de
 
