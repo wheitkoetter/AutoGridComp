@@ -12,7 +12,7 @@ qgisMinimumVersion=2.0
 qgisMaximumVersion=2.99
 description=compares grid models automatically
 version=0.1
-author=Wilko Heitkoetter/DLR Institute of Networked Energy Systems
+author=Wilko Heitkoetter - DLR Institute of Networked Energy Systems
 email=wilko.heitkoetter@dlr.de
 
 about=This plugin automatically compares power grid models, taking into account mathematical, visual and electrical criteria. The tool can also be applied to grid models other than those of power grids. Licensed under the BSD-3-Clause Revised License.
